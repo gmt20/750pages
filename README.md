@@ -1,5 +1,7 @@
 A simple project made with React js. It provides a text area for witing the 750 words and downloading it as a pdf.
-[!Alt_text] 
+[!alt_text](https://github.com/gmt20/750pages/blob/master/1.PNG)
+
+[!alt_text](https://github.com/gmt20/750pages/blob/master/2.PNG)
 
 
 
