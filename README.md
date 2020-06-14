@@ -1,3 +1,8 @@
+A simple project made with React js. It provides a text area for witing the 750 words and downloading it as a pdf.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
