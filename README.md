@@ -1,4 +1,5 @@
 A simple project made with React js. It provides a text area for witing the 750 words and downloading it as a pdf.
+[!Alt_text] 
 
 
 
